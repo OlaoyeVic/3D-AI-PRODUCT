@@ -1,6 +1,6 @@
 const Canvas = () => {
     return (
-        <div></div>
+        <div>canvas</div>
     )
 }
 export default Canvas

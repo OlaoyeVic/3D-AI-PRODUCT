@@ -1,6 +1,6 @@
 const Customizer = () => {
     return (
-        <div className="div"></div>
+        <div className="div">Customizer</div>
     )
 }
 export default Customizer
